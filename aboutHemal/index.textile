@@ -3,7 +3,7 @@ layout: default
 title: About Hemal
 ---
 
-Born and raised in an inner-city chawl (ghetto) of Mumbai, India, 
+p<>.  Born and raised in an inner-city chawl (ghetto) of Mumbai, India, 
 Hemal spent her formative years striving to climb the social ladder. 
 She did several odd jobs ranging from working as a concierge in 
 Mumbai's five-star hotels to a lab technician in a microbiology lab. 
@@ -17,7 +17,7 @@ Hemal now lives with her husband and her son near New York City.
 She has over eight years of extensive experience of producing and 
 editing documentary films and she has won several awards for her work.
 
-Her filmography includes: 
+p<>.  Her filmography includes: 
 Outlawed in Pakistan (Editor, Sundance, 2013, IDFA, ITVS, Frontline); 
 Shabeena's Quest (Director, producer, editor, Al-Jazeera Witness 2012); 
 Saving Face (Editor, 2012 Oscar, numerous international and national awards and film festivals, HBO / Channel 4); 
