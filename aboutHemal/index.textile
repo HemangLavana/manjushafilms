@@ -3,6 +3,12 @@ layout: default
 title: About Hemal
 ---
 
+<!-- markdown syntax doesn't seem to allow width and height parameters so we have to resort to raw html
+!<Hemal-LA-with-camera_0.jpg(Hemal with Camera)!
+<p><img alt="Hemal with Camera" src="Hemal-LA-with-camera_0.jpg" align="left" vspace="25" width="450" height="300" hspace="25" /></p>
+-->
+<p><img alt="Hemal with Camera" src="Hemal-LA-with-camera_0.jpg" align="left" vspace="25" width="450" height="300" hspace="25" /></p>
+
 p<>.  Born and raised in an inner-city chawl (ghetto) of Mumbai, India, 
 Hemal spent her formative years striving to climb the social ladder. 
 She did several odd jobs ranging from working as a concierge in 
@@ -18,12 +24,12 @@ She has over eight years of extensive experience of producing and
 editing documentary films and she has won several awards for her work.
 
 p<>.  Her filmography includes: 
-Outlawed in Pakistan (Editor, Sundance, 2013, IDFA, ITVS, Frontline); 
-Shabeena's Quest (Director, producer, editor, Al-Jazeera Witness 2012); 
-Saving Face (Editor, 2012 Oscar, numerous international and national awards and film festivals, HBO / Channel 4); 
-Beyond Mumbai (Producer & Editor, of this series recently acquired by Oprah Winfrey Network, also served as producer & other roles; Nominated, 2011 Webby Award; winner, InterFaith Film Festival Forgiveness Silver Telly Awards); 
-When the Drum is Beating (Editor, ITVS, Tribeca & HotDocs 2011); 
-Flying on One Engine (Editor, SXSW, IDFA, several other major film festivals, broadcast in 36 countries); 
-Laughter (Editor, BBC); 
-Faith Under Fire (Producer and Editor; an inquiry into religious freedom among Muslim Americans; Winner, DeRose Hinkhouse Award; nominated for Silver Telly Award.); 
+_Outlawed in Pakistan_ (Editor, Sundance, 2013, IDFA, ITVS, Frontline); 
+_Shabeena's Quest_ (Director, producer, editor, Al-Jazeera Witness 2012); 
+_Saving Face_ (Editor, 2012 Oscar, numerous international and national awards and film festivals, HBO / Channel 4); 
+_Beyond Mumbai_ (Producer & Editor, of this series recently acquired by Oprah Winfrey Network, also served as producer & other roles; Nominated, 2011 Webby Award; winner, InterFaith Film Festival Forgiveness Silver Telly Awards); 
+_When the Drum is Beating_ (Editor, ITVS, Tribeca & HotDocs 2011); 
+_Flying on One Engine_ (Editor, SXSW, IDFA, several other major film festivals, broadcast in 36 countries); 
+_Laughter_ (Editor, BBC); 
+_Faith Under Fire_ (Producer and Editor; an inquiry into religious freedom among Muslim Americans; Winner, DeRose Hinkhouse Award; nominated for Silver Telly Award.); 
 Short films as Editor & Producer: Haiti: Six Months After the Earthquake ; Voices of Sudan: the New Country is Born ; Politics of Hunger .
