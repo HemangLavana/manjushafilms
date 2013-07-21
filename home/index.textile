@@ -3,11 +3,79 @@ layout: default
 title: Tell Me a Story
 ---
 
-h1. My first site using textile wiki
+<table>
+<tr>
+<!-- left colum -->
+<td width="300" align="top">
 
-* award1
-* item 2
+*Shabeena's Quest: An Al Jazeera documentary produced, directed & edited by Hemal Trivedi*
 
-# list1
-# list2
-# list3
+<a href="ShabeenasQuest-film.html">
+<img alt="Shabeena's Quest Movie Still Photo" src="ShabeenasQuest-still.jpg" hspace="1" width="500"/>
+</a>
+<!--
+!ShabeenasQuest-still.jpg(Shabeena's Quest Movie Still Photo)!:/films/ShabeenasQuest
+<a href="ShabeenasQuest-film.html">
+<img alt="Shabeena's Quest Movie Still Photo" src="ShabeenasQuest-still.jpg" hspace="1" width="500"/>
+</a>
+-->
+
+p<>. Malala Yousafzai, a Pakistani school girl who was shot by Taliban, became an international 
+symbol of freedom.  Her case is only the tip of the iceberg, however, because in some parts 
+of Pakistan getting an education is still an act of defiance. Watch Shabeena, a remarkable 
+school principal, and her quest to bring education to the children, particularly the young 
+girls, living in the shadow of the Taliban on Pakistan's frontier. 
+
+* Listen to Hemal Trivedi's 
+"interview":http://www.cbc.ca/thecurrent/episode/2012/12/14/the-story-of-shabeen-zareen-a-brave-school-principal-in-pakistan
+on CBCradio, Canada about her recent documentary.
+
+</td>
+
+<!-- middle spacer colum -->
+<td width="100">
+</td>
+
+<!-- right colum -->
+<td width="500">
+<!--
+<div id="site-slogan">
+Main Entry: <strong> man&#183;ju&#183;sha </strong> <br>
+Function: <em> noun</em>; Sanskrit <br>
+An exclusive collection of rare and exotic jewels.
+</div
+-->
+
+* Watch "Outlawed in Pakistan":http://www.pbs.org/wgbh/pages/frontline/outlawed-in-pakistan/
+  on Frontline. Edited by Hemal Trivedi
+* Hemal Trivedi nominated for an "Emmy for editing":http://www.emmyonline.org/news/ Saving Face.
+* "Saving Face":http://savingfacefilm.com/, edited by Hemal Trivedi, 
+  won an Oscar for best documentary film.
+* Two Children of the Red Mosque, directed and edited by Hemal Trivedi gets 
+  support from Center for Asian American Media; Ford Foundation; IFP, 
+  TriBeCa Film Institute (Gucci Tribeca Fund 2012 & Tribeca All Access 2011), 
+  "Sheffield Docfest MeetMarket":http://sheffdocfest.com/view/meetmarket, 
+  and Women Make Movies.
+
+
+p<>. Manjusha Films is the brainchild of "Hemal Trivedi":/aboutHemal
+- a New York City and Mumbai based documentary filmmaker 
+and editor. Hemal has been editing documentaries, and 
+non-fiction media for over eight years and her work has 
+featured on PBS, BBC, Discovery Kids, HBO, Channel 4, 
+Al Jazeera as well as on various international channels 
+in 26 countries. Her films have played at film festivals 
+like Tribeca, SXSW, IDFA, Full Frame, Independent film 
+week and various other international film festivals.
+
+_*Services:*_ Creative leadership, 
+Final Cut Studio (FCP, Motion, Soundtrack, DVD Studio Pro), 
+Avid, Aftereffects, Pro Tools, HD camera operation, 
+Panasonic P2 work flow, basic audio recording, 
+documentary lighting, audio and video podcasting. 
+_Languages known:_ English, Hindi, Urdu, Marathi, Gujarati.
+
+
+</td>
+</tr>
+</table>
