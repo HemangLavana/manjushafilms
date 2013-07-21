@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manjusha Films - Selected Films
+title: Selected Films
 ---
 
 To be updated soon.

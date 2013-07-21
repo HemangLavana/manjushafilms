@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manjusha Films - About Hemal
+title: About Hemal
 ---
 
 Born and raised in an inner-city chawl (ghetto) of Mumbai, India, 

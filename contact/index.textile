@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manjusha Films - Contact
+title: Contact
 ---
 
 *Hemal Trivedi*
