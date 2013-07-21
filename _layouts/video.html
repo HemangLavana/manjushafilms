@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <style type="text/css" media="all">
+        @import "/css/film.css";.style1 {font-family: Garamond}
+        </style>
+    </head>
+
+    <body id="html-body">
+        <!-- Main content begins here -->
+        <div id="main-content"> 
+            <div class="wrapper">
+                <div id="content">
+                    <!-- Begin main content -->
+
+                    {{ content }}
+
+                    <!-- End main content --> 
+                </div> 
+            </div> <!-- /wrapper -->
+        </div> <!-- /main-content -->
+
+        {% include google-analytics.html %}
+    </body>
+</html>
