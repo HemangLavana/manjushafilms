@@ -11,7 +11,7 @@
     margin: 0 auto; /* Center the page */
 /*
     background: #fff;
-    background: #FF9900 url(images/Pakistan-collect-material-on-riverside.jpg);
+    background: #FF9900 url(/images/Pakistan-collect-material-on-riverside.jpg);
     background-repeat: no-repeat;
 */
   }
@@ -130,8 +130,8 @@
     font-weight: bold;
     padding: 2em;
 /*
-    background: #D7E3F0 url(images/background.png);
-    background: #FF9900 url(images/Pakistan-collect-material-on-riverside.jpg);
+    background: #D7E3F0 url(/images/background.png);
+    background: #FF9900 url(/images/Pakistan-collect-material-on-riverside.jpg);
 */
     margin-bottom: 20px;
     font-size: 85%;
@@ -240,7 +240,7 @@
 
   #primary a
   {
-    background: #990000 url(images/tabs.png) repeat-x;
+    background: #990000 url(/images/tabs.png) repeat-x;
     color: #ff9900;
     font-family: Arial;
     font-weight: bold;
