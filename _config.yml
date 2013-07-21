@@ -1,2 +1,4 @@
 name: Tell Me a Story
 pygments: true
+redcloth:
+  hard_breaks: false
