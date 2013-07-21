@@ -10,12 +10,12 @@ title: Tell Me a Story
 
 *Shabeena's Quest: An Al Jazeera documentary produced, directed & edited by Hemal Trivedi*
 
-<a href="ShabeenasQuest-film.html">
+<a href="/films/ShabeenasQuest">
 <img alt="Shabeena's Quest Movie Still Photo" src="ShabeenasQuest-still.jpg" hspace="1" width="500"/>
 </a>
 <!--
 !ShabeenasQuest-still.jpg(Shabeena's Quest Movie Still Photo)!:/films/ShabeenasQuest
-<a href="ShabeenasQuest-film.html">
+<a href="/films/ShabeenasQuest">
 <img alt="Shabeena's Quest Movie Still Photo" src="ShabeenasQuest-still.jpg" hspace="1" width="500"/>
 </a>
 -->
