@@ -8,11 +8,20 @@ title: Manjusha Films Home
 <!-- left colum -->
 <td width="300" align="top">
 
+*Hemal wins an 
+"Emmy":http://www.emmyonline.org/mediacenter/news_34th_winners.html
+for Outstanding Editing for Saving Face*
+
+<a href="/images/Emmy-OutstandingEditor-still.jpg">
+<img alt="Emmy for Outstanding Editor - Still Photo" src="/images/Emmy-OutstandingEditor-still.jpg" hspace="1" width="300"/>
+</a>
+
 *Shabeena's Quest: An Al Jazeera documentary produced, directed & edited by Hemal Trivedi*
 
 <a href="/films/ShabeenasQuest">
 <img alt="Shabeena's Quest Movie Still Photo" src="ShabeenasQuest-still.jpg" hspace="1" width="500"/>
 </a>
+
 <!--
 !ShabeenasQuest-still.jpg(Shabeena's Quest Movie Still Photo)!:/films/ShabeenasQuest
 <a href="/films/ShabeenasQuest">
