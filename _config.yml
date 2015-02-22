@@ -1,4 +1,4 @@
 name: Manjusha Films
-pygments: true
+highlighter: pygments
 redcloth:
   hard_breaks: false
