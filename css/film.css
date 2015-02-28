@@ -6,10 +6,11 @@
 
   body
   {
-    background: #FFA54F;
+    background: #FFFFFF;
     width: 960px; /* page width  */
     margin: 0 auto; /* Center the page */
 /*
+    background: #FFA54F;
     background: #fff;
     background: #FF9900 url(/images/Pakistan-collect-material-on-riverside.jpg);
     background-repeat: no-repeat;
@@ -20,13 +21,19 @@
   {
     width: 600px; /* page width  */
     color: #000;
+    background: #FFFFFF;
+/*
     background: #FFA54F;
+*/
   }
 
   #page
   {
     color: #000;
+/*
     background: #FFA54F;
+*/
+    background: #FFFFFF;
 /*
     color: #111;
     background-color: #fff;
